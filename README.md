@@ -33,7 +33,7 @@ Embedded systems are an integral part of our daily routines, pushing us to impro
   
 ## 📖 How to Use  
 1️⃣ Download and install the mobile app  
-2️⃣ Turn on the **ROBO** device and connect it via Bluetooth/Wi-Fi  
+2️⃣ Turn on the **ROBO** device and connect it via Wi-Fi  
 3️⃣ Use the app to control movements and access educational activities  
 4️⃣ Explore different challenges and levels for interactive learning  
 
