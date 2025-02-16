@@ -1,9 +1,4 @@
-EMBEDDED SYSTEMS -------
-DIPLOMA PROJECT 
------ TOPIC: "Interactive Educational Robot with Mobile App Control" 
---------- MIHAELA DILYANOVA MIHAYLOVA ----------
-- 
-# 🎓 Diploma Project: Interactive Educational Robot with Mobile App Control  
+ # 🎓 Diploma Project: Interactive Educational Robot with Mobile App Control  
 **Author:** Mihaela Dilyanova Mihaylova  
 **Field:** Embedded Systems  
 
