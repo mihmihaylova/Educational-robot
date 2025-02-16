@@ -4,8 +4,7 @@
 
 --- INTRODUCTION ----
 -
-An innovative **robot** designed to make learning fun and engaging. It provides an easy and interactive way to encourage even the youngest learners to explore new concepts while enjoying the process.
-. Why not combine something useful with something entertaining? Education is an essential part of our daily lives, constantly unveiling new horizons that advance at a rapid pace.
+An innovative **robot** designed to make learning fun and engaging. It provides an easy and interactive way to encourage even the youngest learners to explore new concepts while enjoying the process. Why not combine something useful with something entertaining? Education is an essential part of our daily lives, constantly unveiling new horizons that advance at a rapid pace.
 
 That is why "ROBO" is something new—unconventional, different, exciting, and interactive—a combination of logic, vision, and effort that can turn into a passion or even a hobby.
 
