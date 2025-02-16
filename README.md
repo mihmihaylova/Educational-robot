@@ -1,6 +1,6 @@
-------------- EMBEDDED SYSTEMS -------
------------  DIPLOMA PROJECT --------
------ TOPIC: "Interactive Educational Robot with Mobile App Control" ---
+EMBEDDED SYSTEMS -------
+DIPLOMA PROJECT 
+----- TOPIC: "Interactive Educational Robot with Mobile App Control" 
 --------- MIHAELA DILYANOVA MIHAYLOVA ----------
 - 
 --- INTRODUCTION ----
