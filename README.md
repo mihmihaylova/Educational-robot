@@ -13,3 +13,5 @@ Embedded systems are an integral part of our daily routines, pushing us to impro
 
 "ROBO" will teach us to be better, to explore technology, and to stay in tune with the times, keeping up with everyone else.
 
+
+==== Detailed information about the entire project and its development, as well as a video demonstration, can be found here: https://drive.google.com/drive/folders/1duf2EE6l6_UVae5DAVYT1l7sxGNdrMRY 
