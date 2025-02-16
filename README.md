@@ -14,5 +14,5 @@ Embedded systems are an integral part of our daily routines, pushing us to impro
 
 
 ## 📌 More Information & Video Demonstration  
-🔗 [Click here to access the full project details and video](https://drive.google.com/drive/folders/1duf2EE6l6_UVae5DAVYT1I7sxGNdrMRY)
+🔗 [Click here to access the full project details and video](https://drive.google.com/drive/folders/1duf2EE6l6_UVae5DAVYT1l7sxGNdrMRY)
 
