@@ -3,6 +3,10 @@ DIPLOMA PROJECT
 ----- TOPIC: "Interactive Educational Robot with Mobile App Control" 
 --------- MIHAELA DILYANOVA MIHAYLOVA ----------
 - 
+# 🎓 Diploma Project: Interactive Educational Robot with Mobile App Control  
+**Author:** Mihaela Dilyanova Mihaylova  
+**Field:** Embedded Systems  
+
 --- INTRODUCTION ----
 -
 An innovative cart that will make everyone have fun. An easy way to encourage even the youngest to learn something new while smiling. Why not combine something useful with something entertaining? Education is an essential part of our daily lives, constantly unveiling new horizons that advance at a rapid pace.
