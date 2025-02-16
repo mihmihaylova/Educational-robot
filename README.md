@@ -12,6 +12,7 @@ Embedded systems are an integral part of our daily routines, pushing us to impro
 
 "ROBO" will teach us to be better, to explore technology, and to stay in tune with the times, keeping up with everyone else.
 
+
 ## 🔹 Key Features  
 ✔️ Interactive educational robot controlled via a mobile app  
 ✔️ Encourages learning through play and engagement  
@@ -19,10 +20,12 @@ Embedded systems are an integral part of our daily routines, pushing us to impro
 ✔️ Teaches basic programming and logical thinking  
 ✔️ Uses embedded systems for real-time interaction  
 
+
 ## 🛠️ Technologies Used  
 - **Hardware:** Raspberry Pi  
 - **Software:** Python 
 - **Mobile App:** MIT APP INVENTOR
+
   
 ## 📖 How to Use  
 1️⃣ Download and install the mobile app  
